@@ -69,3 +69,4 @@ guncelleme 68
 guncelleme 69
 guncelleme 70
 guncelleme 71
+guncelleme 72
