@@ -25,3 +25,4 @@ guncelleme 24
 guncelleme 25
 guncelleme 26
 guncelleme 27
+guncelleme 28
