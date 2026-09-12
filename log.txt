@@ -17,3 +17,4 @@ guncelleme 16
 guncelleme 17
 guncelleme 18
 guncelleme 19
+guncelleme 20
