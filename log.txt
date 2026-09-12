@@ -64,3 +64,4 @@ guncelleme 63
 guncelleme 64
 guncelleme 65
 guncelleme 66
+guncelleme 67
