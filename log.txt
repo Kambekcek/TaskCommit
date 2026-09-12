@@ -9,3 +9,4 @@ guncelleme 8
 guncelleme 9
 guncelleme 10
 guncelleme 11
+guncelleme 12
