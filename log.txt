@@ -7,3 +7,4 @@ guncelleme 6
 guncelleme 7
 guncelleme 8
 guncelleme 9
+guncelleme 10
