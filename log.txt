@@ -21,3 +21,4 @@ guncelleme 20
 guncelleme 21
 guncelleme 22
 guncelleme 23
+guncelleme 24
