@@ -29,3 +29,4 @@ guncelleme 28
 guncelleme 29
 guncelleme 30
 guncelleme 31
+guncelleme 32
